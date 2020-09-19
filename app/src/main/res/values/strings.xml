@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rashin Test App</string>
+    <string name="main_page">صفحه اصلی</string>
+    <string name="contents">محتویات</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="movie">فیلم</string>
+    <string name="series">سریال</string>
+    <string name="unknown">نامشخص</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
